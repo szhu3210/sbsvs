@@ -7,7 +7,7 @@
 
 ## Sample is shown below:
 
-![Sample](https://github.com/XiaoJenJen/sbsvs/blob/master/record%20%23%205.jpg "record # 5.jpg")
+<img src="https://github.com/XiaoJenJen/sbsvs/blob/master/record%20%23%205.jpg" width="600">
 
 ## Project structure
 *analysis.py*: trading simulator
